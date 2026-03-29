@@ -16,6 +16,15 @@
 [![Vite PWA](https://img.shields.io/badge/PWA-Ready-FF6F00?logo=pwa&logoColor=white)](https://vite-pwa-org.netlify.app/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.8-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
+<div align="center">
+  <br />
+  <a href="https://Saad505.github.io/math-2/">
+    <img src="https://img.shields.io/badge/LIVE_DEMO-Visit_Web_App-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo" />
+  </a>
+</div>
+
+<br />
+
 **Math C2** is a state-of-the-art educational application designed to make math fun, interactive, and accessible for children. Built with a focus on **privacy**, **offline performance**, and **cross-platform versatility**, Math C2 provides a gamified learning experience that scales from mobile devices to desktop computers.
 
 ---
@@ -80,8 +89,8 @@ Math C2 is built with modern, high-performance tools:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/math-c2.git
-   cd math-c2
+   git clone https://github.com/Saad505/math-2.git
+   cd math-2
    ```
 
 2. **Install dependencies:**

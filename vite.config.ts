@@ -8,6 +8,7 @@ import basicSsl from '@vitejs/plugin-basic-ssl';
 export default defineConfig(({mode}) => {
   const env = loadEnv(mode, '.', '');
   return {
+    base: './',
     plugins: [
       react(), 
       tailwindcss(),
