@@ -71,7 +71,24 @@ export default defineConfig(({mode}) => {
               type: 'image/svg+xml',
               purpose: 'maskable'
             }
-          ]
+          ],
+          screenshots: [
+            {
+              src: 'img/math-2b.png',
+              sizes: '1200x800',
+              type: 'image/png',
+              form_factor: 'wide',
+              label: 'Math Adventure Main Screen'
+            },
+            {
+              src: 'img/math_buddy_mascot.png',
+              sizes: '1200x800',
+              type: 'image/png',
+              form_factor: 'narrow',
+              label: 'Meet Math Buddy'
+            }
+          ],
+          categories: ['education', 'kids', 'math']
         }
       })
     ],
