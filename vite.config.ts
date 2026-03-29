@@ -15,10 +15,10 @@ export default defineConfig(({mode}) => {
       basicSsl(),
       VitePWA({
         registerType: 'autoUpdate',
-        includeAssets: ['icon.svg'],
+        includeAssets: ['icon.svg', 'img/*.png'],
         workbox: {
           globPatterns: ['**/*.{js,css,html,ico,png,svg,json}'],
-          navigateFallback: '/index.html',
+          navigateFallback: 'index.html',
           runtimeCaching: [
             {
               urlPattern: /^https:\/\/fonts\.googleapis\.com\/.*/i,

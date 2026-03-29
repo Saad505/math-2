@@ -1,7 +1,7 @@
 # 🧮 Math C2: A Premium Interactive Math Learning Adventure
 
 <div align="center">
-  <img src="img/math_buddy_mascot.png" alt="Math Buddy Mascot" width="1200" />
+  <img src="public/img/math_buddy_mascot.png" alt="Math Buddy Mascot" width="1200" />
   <p align="center">
     <strong>Meet Math Buddy, your friendly guide through the wonderful world of numbers!</strong>
   </p>
@@ -30,7 +30,7 @@
 ---
 
 <div align="center">
-  <img src="img/math-2b.png" alt="Math C2" width="1200" />
+  <img src="public/img/math-2b.png" alt="Math C2" width="1200" />
 </div>
 
 ---
