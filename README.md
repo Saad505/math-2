@@ -123,7 +123,13 @@ npx cap open android
 ## Author
 
 **Saad**
-- Developer, Designer & Educational Visionary -
+*Developer, Designer & Educational Visionary*
+
+---
+
+##  License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ---
 
 <div align="center">
