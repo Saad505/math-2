@@ -122,8 +122,8 @@ npx cap open android
 
 ## Author
 
-*Saad*
-Developer, Designer & Educational Visionary
+**Saad**
+- Developer, Designer & Educational Visionary -
 ---
 
 <div align="center">
